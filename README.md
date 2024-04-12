@@ -26,3 +26,7 @@ Real-time Communication: Websockets or similar technologies enable real-time mes
 Requirements: Node JS, Mongo DB
 Go to the public folder an install yarn...
 Then type 'yarn start' in cmd.
+
+![Register page](<images/Screenshot 2024-04-12 195124.png>)
+![Login page](<images/Screenshot 2024-04-12 195213.png>)
+![Chat page](<images/Screenshot 2024-04-12 195307.png>)
