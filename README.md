@@ -29,4 +29,4 @@ Then type 'yarn start' in cmd.
 
 ![Register page](<images/Screenshot 2024-04-12 195124.png>)
 ![Login page](<images/Screenshot 2024-04-12 195213.png>)
-![Chat page](<images/Screenshot 2024-04-12 195307.png>)
+![Chat page](<images/Screenshot 2024-04-12 202051.png>)
